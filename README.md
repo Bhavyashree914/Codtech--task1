@@ -1,8 +1,13 @@
 Name:Bhavyashree H V
+
 Company:CODTECH solutions
+
 Intern ID :CT6WDS2654
+
 Domain:Python Programming
+
 Duration:Neela Santhosh Kumar
+
 Mentor:Muzammil Ahmed
 
 Overview of the Project
